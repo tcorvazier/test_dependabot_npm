@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "mocha" : "3.2.0",
+        "mocha" : "3.5.3",
         "node-rest-client": "2.0.1",
         "fs": "0.0.2",
         "express": "4.14.1",
