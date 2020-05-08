@@ -6,6 +6,6 @@
         "express": "4.14.1",
         "sinon" : "1.17.7",
         "hashmap" : "2.0.6",
-        "couchbase" : "2.3.0"
+        "couchbase" : "2.6.12"
     } 
 }
